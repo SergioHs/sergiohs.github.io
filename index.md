@@ -1,14 +1,8 @@
 ---
 layout: default
-title: Sergio Silva
-description: Senior Software Engineer | Java · Spring · React · Cloud
----
-
-# Msc. Sergio Silva
-**Senior Software Engineer / Full Stack Developer**
-
-Lisbon, Portugal &nbsp;·&nbsp; [sergiohsilva3@gmail.com](mailto:sergiohsilva3@gmail.com) &nbsp;·&nbsp; +351 933 389 448 &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/sergio-henrique-silva/)
-
+title: "Msc. Sergio Silva"
+description: "Senior Software Engineer / Full Stack Developer"
+contact_html: "Lisbon, Portugal &nbsp;·&nbsp; <a href='mailto:sergiohsilva3@gmail.com'>sergiohsilva3@gmail.com</a> &nbsp;·&nbsp; +351 933 389 448 &nbsp;·&nbsp; <a href='https://www.linkedin.com/in/sergio-henrique-silva/'>LinkedIn</a>"
 ---
 
 ## Summary
