@@ -2,7 +2,7 @@
 layout: default
 title: "Msc. Sergio Silva"
 description: "Senior Software Engineer / Full Stack Developer"
-contact_html: "Lisbon, Portugal &nbsp;·&nbsp; <a href='mailto:sergiohsilva3@gmail.com'>sergiohsilva3@gmail.com</a> &nbsp;·&nbsp; +351 933 389 448 &nbsp;·&nbsp; <a href='https://www.linkedin.com/in/sergio-henrique-silva/'>LinkedIn</a>"
+contact_html: "Lisbon, Portugal &nbsp;·&nbsp; <a href='mailto:sergiohsilva3@gmail.com'>sergiohsilva3@gmail.com</a> &nbsp;·&nbsp; <a href='https://www.linkedin.com/in/sergio-henrique-silva/'>LinkedIn</a>"
 ---
 
 ## Summary
